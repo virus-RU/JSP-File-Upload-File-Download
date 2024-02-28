@@ -12,3 +12,18 @@
 %>
 </body>
 </html>
+
+<!-- 
+Explanation of the code:
+
+Code Line 10: Here we are getting the attribute from the request object with value gurumessage into a string object.
+
+Code Line11: Here we are printing that message.
+
+When we execute the above code we get the following output
+
+Output:
+
+We get a form wherein there is fields to choose a file from directory. Once the file is selected then we have to click on the upload button.
+
+-->
