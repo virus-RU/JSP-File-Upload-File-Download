@@ -1,0 +1,4 @@
+We can upload any files using JSP.
+It can be a text file, binary file, image file or any other document.
+Here in case of file uploading, only POST method will be used and not the GET method.
+Enctype attribute should be set to multipart/form-data.
