@@ -1,4 +1,14 @@
-We can upload any files using JSP.
-It can be a text file, binary file, image file or any other document.
-Here in case of file uploading, only POST method will be used and not the GET method.
-Enctype attribute should be set to multipart/form-data.
+
+< JSP File Upload >
+-- We can upload any files using JSP.
+-- It can be a text file, binary file, image file or any other document.
+-- Here in case of file uploading, only POST method will be used and not the GET method.
+-- Enctype attribute should be set to multipart/form-data.
+
+
+
+
+>> Summary
+We have learnt about registration form to register into any application
+Learnt more about how the login in and logout forms works out.
+Also learnt about uploading and downloading of a file through JSP.
